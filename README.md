@@ -1,5 +1,6 @@
 
-![Uploading giphy.gif…]()
+
+![giphy](https://github.com/PavelSmerdiakov/PavelSmerdiakov/assets/157140644/b7bb3c6f-ce62-4a9b-ad9e-0d4bb4acacb1)
 
 
                ╔════════════════▣◎▣════════════════╗ 
