@@ -29,6 +29,10 @@
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=PavelSmerdiakov&show_icons=true&theme=radical" >
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelSmerdiakov&layout=donut" >
+</p>
                      
 <!---
 PavelSmerdiakov/PavelSmerdiakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
